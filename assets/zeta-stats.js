@@ -1,0 +1,176 @@
+window.ZETA_STATS = {
+  "schemaVersion": 1,
+  "platform": "zeta",
+  "sourceUrl": "https://zeta-ai.io/ja/creators/bdab83f9-595a-4374-bb7b-497a5a64174d/profile",
+  "updatedAt": "2026-10-11T16:45:28.965Z",
+  "works": {
+    "intelli-yakuza": {
+      "count": 37000,
+      "label": "3.7万",
+      "approximate": true,
+      "sourceOrder": 0,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/87667238-03f9-499b-ae0e-dcedafd659a1/profile"
+    },
+    "souichi": {
+      "count": 2339,
+      "label": "2,339",
+      "approximate": false,
+      "sourceOrder": 10,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/491e15c1-5941-4a06-9e56-c21b2e39b0db/profile"
+    },
+    "detective": {
+      "count": 1669,
+      "label": "1,669",
+      "approximate": false,
+      "sourceOrder": 12,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/0cc6c3ae-caf2-4fd4-9d96-eb4bd7c5248d/profile"
+    },
+    "neighbor": {
+      "count": 307,
+      "label": "307",
+      "approximate": false,
+      "sourceOrder": 21,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/defe2003-6dfb-4bb6-bf6c-19932311907d/profile"
+    },
+    "congratulations": {
+      "count": 35000,
+      "label": "3.5万",
+      "approximate": true,
+      "sourceOrder": 1,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/a2dba892-bfbd-483c-b576-dd0829b6102d/profile"
+    },
+    "free-diagnosis": {
+      "count": 34000,
+      "label": "3.4万",
+      "approximate": true,
+      "sourceOrder": 2,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/b29c1367-8d00-4ce1-b130-db8be9f63064/profile"
+    },
+    "important-notice": {
+      "count": 22000,
+      "label": "2.2万",
+      "approximate": true,
+      "sourceOrder": 3,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/caff29df-63da-449c-9b2b-60a98486ae81/profile"
+    },
+    "apology": {
+      "count": 19000,
+      "label": "1.9万",
+      "approximate": true,
+      "sourceOrder": 4,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/27021862-3753-40e1-a027-55dd88bbabc2/profile"
+    },
+    "four-handlers": {
+      "count": 14000,
+      "label": "1.4万",
+      "approximate": true,
+      "sourceOrder": 5,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/88340166-1fe6-4b5a-ae1a-f1a6bc63b167/profile"
+    },
+    "ninth-unit": {
+      "count": 12000,
+      "label": "1.2万",
+      "approximate": true,
+      "sourceOrder": 6,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/90386b8c-9767-4d0d-a902-e60020d60e47/profile"
+    },
+    "night-shift": {
+      "count": 11000,
+      "label": "1.1万",
+      "approximate": true,
+      "sourceOrder": 7,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/484a4f29-668d-41cd-8576-e004333e3d31/profile"
+    },
+    "clicked": {
+      "count": 6233,
+      "label": "6,233",
+      "approximate": false,
+      "sourceOrder": 8,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/70a84bff-40ce-41ff-a08e-4e8afced4630/profile"
+    },
+    "ideal-boyfriend": {
+      "count": 4771,
+      "label": "4,771",
+      "approximate": false,
+      "sourceOrder": 9,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/b42d317e-dd2e-45d2-82c0-9086407239d5/profile"
+    },
+    "four-connections": {
+      "count": 2243,
+      "label": "2,243",
+      "approximate": false,
+      "sourceOrder": 11,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/dcc9e80e-5a5d-44f2-ac7c-f8cb485a8832/profile"
+    },
+    "this-is-love": {
+      "count": 1270,
+      "label": "1,270",
+      "approximate": false,
+      "sourceOrder": 13,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/331a51c7-acab-4f60-9b49-4ae4cccd808c/profile"
+    },
+    "local-support": {
+      "count": 871,
+      "label": "871",
+      "approximate": false,
+      "sourceOrder": 14,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/b9d74b82-f5c6-4e7e-b4a0-8dcd031930f1/profile"
+    },
+    "your-god": {
+      "count": 869,
+      "label": "869",
+      "approximate": false,
+      "sourceOrder": 15,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/4e0ef4e5-dfd0-4047-825c-54bd0fa4b612/profile"
+    },
+    "special-selection": {
+      "count": 769,
+      "label": "769",
+      "approximate": false,
+      "sourceOrder": 16,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/86febe3f-4a05-4f15-96ad-5a3bfc4e559a/profile"
+    },
+    "today-introduces": {
+      "count": 709,
+      "label": "709",
+      "approximate": false,
+      "sourceOrder": 17,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/85f3f7ca-d43c-4328-8795-42dbe5fcbeb1/profile"
+    },
+    "room-302": {
+      "count": 482,
+      "label": "482",
+      "approximate": false,
+      "sourceOrder": 18,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/3fa7730b-abc3-4f78-9bf8-5adaf89acc0d/profile"
+    },
+    "political-marriage": {
+      "count": 405,
+      "label": "405",
+      "approximate": false,
+      "sourceOrder": 19,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/7304d98e-3a07-48b7-b085-209f3a335dd8/profile"
+    },
+    "suggestion": {
+      "count": 392,
+      "label": "392",
+      "approximate": false,
+      "sourceOrder": 20,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/c7a58891-06d5-4263-b594-c81641e40031/profile"
+    },
+    "cliabhan": {
+      "count": 221,
+      "label": "221",
+      "approximate": false,
+      "sourceOrder": 22,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/425d5bcd-7488-4751-ba6f-24db45f8c9a8/profile"
+    },
+    "erase-history": {
+      "count": 189,
+      "label": "189",
+      "approximate": false,
+      "sourceOrder": 23,
+      "sourceUrl": "https://zeta-ai.io/ja/plots/7a119b6a-cab7-4f9c-8160-0fc6a717debe/profile"
+    }
+  }
+};
